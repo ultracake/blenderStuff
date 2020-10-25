@@ -1,11 +1,13 @@
-Links to learn basics stuff about blender and mixamo:
+Links to learn basics stuff about Blender, Unity and Mixamo:
 
-//for blender rigid basics
-https://www.youtube.com/watch?v=cZ3o5tjO51s&list=LL&index=19
+//for Blender rigid basics
+- https://www.youtube.com/watch?v=cZ3o5tjO51s&list=LL&index=19
 
-https://www.youtube.com/watch?v=XHa2Y8zjtZQ&list=LL&index=34
+- https://www.youtube.com/watch?v=XHa2Y8zjtZQ&list=LL&index=34
 
 
+//how to go from Blender to Mixamo
+- https://www.youtube.com/watch?v=G3HbFdsZYSI&list=LL&index=20&t=491s
 
-//how to go from blender to mixamo
-https://www.youtube.com/watch?v=G3HbFdsZYSI&list=LL&index=20&t=491s
+//Unity blendtree
+- https://docs.unity3d.com/Manual/class-BlendTree.html
